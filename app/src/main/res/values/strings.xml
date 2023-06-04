@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeltonikaApplication</string>
+    <string name="sign_up_link"><u>Sign up</u></string>
+    <string name="login_in_link"><u>Login</u></string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
